@@ -8,7 +8,7 @@
     <ProjectGuid>9b13a1a8-e7fa-4a11-9c2c-ebd4ea60002f</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>IntersectOfRectng</RootNamespace>
-    <AssemblyName>IntersectOfRectng</AssemblyName>
+    <AssemblyName>IsP-gram</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <Name>IsP-gram</Name>
   </PropertyGroup>
